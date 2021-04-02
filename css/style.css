@@ -14,7 +14,6 @@ html{
 .about_aarambh>img,.about_ieeemsb>img,.about_manit>img{
     width : 25%;
     float:right;
-    margin:;
     border:2px solid black;
 }
 .about_aarambh>p:nth-child(1){
